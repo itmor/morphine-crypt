@@ -12,10 +12,12 @@
   },
   "keywords": [
     "world",
-    "crypter"
+    "crypter",
+    "encrypt",
+    "word encryption"
   ],
   "author": "itmor",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/itmor/morphine-crypt/issues"
   },
