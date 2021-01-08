@@ -1,0 +1,23 @@
+{
+  "name": "morphine-crypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mrphcrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itmor/morphine-crypt.git"
+  },
+  "keywords": [
+    "world",
+    "crypter"
+  ],
+  "author": "itmor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itmor/morphine-crypt/issues"
+  },
+  "homepage": "https://github.com/itmor/morphine-crypt#readme"
+}
