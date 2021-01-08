@@ -38,6 +38,6 @@ After receiving the tokens, a search is made in the word base, the script search
 And forms a sentence from these words.
 
 
-**Example**
+#### Example
 Amagan**set**t abac**tin**ally administerin**gs**
 
