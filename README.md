@@ -36,7 +36,7 @@ If the word is not divisible by 3 letters, then all the remaining letters will b
 
 After receiving the tokens, a search is made in the word base, the script searches for word matches with a separate token.
 And forms a sentence from these words.
-`
+
 
 **Example**
 Amagan**set**t abac**tin**ally administerin**gs**
