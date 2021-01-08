@@ -29,12 +29,14 @@ MrphCrypt.crypt(String, 'en' | 'ru'));
 
 The word is split into tokens. A token is three letters of a word.
 Example.
-Word: Settings
-Tokens array: ['Set' 'tin', 'gs']
+Word: **Settings**
+Tokens array: **['Set' 'tin', 'gs']**
 
 If the word is not divisible by 3 letters, then all the remaining letters will be the last element of the array.
 
 After receiving the tokens, a search is made in the word base, the script searches for word matches with a separate token.
+And forms a sentence from these words.
+
+**Example**
 Amagan**set**t abac**tin**ally administerin**gs**
 
-And forms a sentence from these words.
