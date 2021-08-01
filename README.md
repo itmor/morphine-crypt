@@ -2,7 +2,7 @@
 
 ![](https://i.ibb.co/DGpS2bK/2121.png)
 
-Library for encrypting words.
+Library for one-way encryption of words.
 
 ### Example
 
