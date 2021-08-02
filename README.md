@@ -16,8 +16,8 @@ MrphCrypt.crypt('Hello world', 'en')
 // Crypted string: Helles cowplop clockwork remolds
 
 // RUSSIAN
-MrphCrypt.crypt('Hello world', 'ru')
-.then(cryptedString => console.log(`Crypted string: ${cryptedString}`));
+MrphCrypt.crypt('Привет мир', 'ru')
+.then(cryptedString => console.log(`Зашифрованная строка: ${cryptedString}`));
 
 // Зашифрованная строка: Примаков советизирующий мирных
 
