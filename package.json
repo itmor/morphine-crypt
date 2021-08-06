@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/itmor/morphine-crypt/issues"
   },
-  "homepage": "https://github.com/itmor/morphine-crypt#readme"
+  "homepage": "https://github.com/itmor/morphine-crypt#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
 }
